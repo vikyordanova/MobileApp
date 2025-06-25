@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "762997846965",
+    "project_id": "hairtime-5afdf",
+    "storage_bucket": "hairtime-5afdf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762997846965:android:53003be3f38371883cdffc",
+        "android_client_info": {
+          "package_name": "com.hair.project_beauty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw0gWGBojAyeuXs2FXmt5wd-eXAEJ_KhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
